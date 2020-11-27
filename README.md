@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 # Hi, i'm Artem.
 ### 🌱 I’m currently learning Front-End...
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Artem-009&theme=dark&show_icons=true)
+![Artem's github stats](https://github-readme-stats.vercel.app/api?username=Artem-009&theme=dark&show_icons=true)
